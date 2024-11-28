@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @FireDasher
+- 👀 I’m interested in Gaming and Programming stuff
+- 🎮 My favorite games are Geometry Dash and Minecraft and Roblox
+- 🌱 I’m currently learning C++
+- 📫 How to reach me: idk
+- 😄 Pronouns: He / Him / His
+- ⚡ Fun fact: Amogus is very very sus
