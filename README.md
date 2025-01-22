@@ -4,4 +4,4 @@
 - 🌱 I’m currently learning C++
 - 📫 How to reach me: idk
 - 😄 Pronouns: He / Him / His
-- ⚡ Fun fact: Amogus is very very sus
+- ⚡ Fun fact: Geomeytry dashing is soo easy!
