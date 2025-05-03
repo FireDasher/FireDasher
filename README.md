@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FireDasher
 - 👀 I’m interested in Gaming and Programming stuff
 - 🎮 My favorite games are Geometry Dash and Minecraft and Roblox
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning something new all the time
 - 📫 How to reach me: idk
 - 😄 Pronouns: He / Him / His
 - ⚡ Fun fact: Geomeytry dashing is soo easy!
