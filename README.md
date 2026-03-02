@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FireDasher
-- 👀 I’m interested in Gaming and Programming stuff
-- 🎮 My favorite games are Geometry Dash and Minecraft and Roblox
-- 🌱 I’m currently learning nothing
-- 📫 How to reach me: idk
+- 👀 I’m interested in Gaming and Programming and I use the Rust programming language
+- 🎮 My favorite games are Geometry Dash and Minecraft
+- 🌱 I’m currently learning many things
+- 📫 How to reach me: https://discord.gg/7mTVr9zKqn
 - 😄 Pronouns: He / Him / His
-- ⚡ Fun fact: Geomeytry dashing is soo easy!
+- ⚡ Fun fact: Geometry Dash is a game!
