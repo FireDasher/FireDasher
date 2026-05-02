@@ -2,6 +2,6 @@
 - 👀 I’m interested in Gaming and Programming and I use the Rust programming language
 - 🎮 My favorite games are Terraria, Geometry Dash, and Minecraft
 - 🌱 I’m currently a bunch of stuff it's hard to pinpoint anything specific
-- 📫 How to reach me: https://discord.gg/7mTVr9zKqn
+- 📫 How to reach me: https://www.youtube.com/@FireDasher22
 - 😄 Pronouns: He / Him / His
 - ⚡ Fun fact: the default speed in geometry dash is exactly 10.386 blocks per second
