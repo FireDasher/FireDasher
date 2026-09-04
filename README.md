@@ -6,3 +6,4 @@
 - 😄 Pronouns: He / Him / His
 - ⚡ Fun fact: the default speed in geometry dash is exactly 10.386 blocks per second
 - Goal: I want to create a programming language then build my own open-source game engine with Lumen-like GI and reflections in it, although I probably never will finish it.
+- Microslop Slopilot sucks!!!!
